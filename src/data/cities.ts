@@ -1,6 +1,6 @@
 export interface City { slug:string; name:string; county:string; title:string; description:string; intro:string; angle:string; caution:string; }
 export const brand = "Phoenix Fix & Flip Loan";
-export const domain = "phoenix.privatemoneyloans.click";
+export const domain = "phoenixfixandflip.loansapp.cfd";
 export const formName = "Phoenix-Fix-Flip-Loan-Form";
 export const cities: City[] = [
   {"slug": "phoenix", "name": "Phoenix", "county": "Maricopa", "title": "Fix and Flip Loans in Phoenix, AZ | Phoenix Fix & Flip Loan", "description": "Explore fix and flip funding connections in Phoenix, Arizona. Share your property, renovation budget and planned resale for a project-level review.", "intro": "A fix and flip in Phoenix begins with the property, not a generic loan number. Tell us what you plan to buy, improve and sell. We connect investors with one lending partner, but we do not make lending decisions.", "angle": "Consider central Phoenix infill lots, older ranch homes and newer subdivision addresses. The purchase price, repair scope and nearby completed sales should support the intended exit, not just the listing description.", "caution": "Verify the scope against the age and condition of the particular home, especially major systems and roof work. Our lending partner reviews the actual file and supplies any offer in writing."},
